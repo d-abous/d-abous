@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dana, a computer science student in Montreal, Canada
-- 👀 I’m interested in software development and cyber security 
-- 🌱 I’m currently learning AI/ML, azure fundamentals 
+- 👀 I’m interested in software development and cyber security  
 - 📫 How to reach me danaabousharbin@gmail.com
 
 
